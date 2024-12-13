@@ -17,8 +17,8 @@ This is an Api for an E-commerce website using expressjs and mongodb
 ### Env
 - Create your own .env Files
 
-- PORT= 3000 or > **any port of your choosing**
-- SECRET=YOUR_SECRET > **Can be anything its for  the jwt auth**
+- PORT= 3000 //<sub><i>or any port of your choosing</i></sub>
+- SECRET=YOUR_SECRET //<sub><i>Can be anything its for  the jwt auth</i></sub>
 - DB_CONNECTION_STRING= YOUR_MONGODB_CONNECTION STRING
 
 ### Mongoose
